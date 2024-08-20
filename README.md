@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jj0a
+- 👋 Hi, I’m Joanne.-
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning event programming and OOP
 - 💞️ I’m looking to collaborate on any projects related to web developing and c# .Net
